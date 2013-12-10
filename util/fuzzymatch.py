@@ -1,6 +1,6 @@
-```
+---
 This file unites three functions of the natural language toolkit: stemmer, tokenizing, and fuzzy matching. 
-```
+---
 
 
 from nltk import metrics, stem, tokenize
