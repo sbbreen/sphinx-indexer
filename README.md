@@ -24,9 +24,9 @@ Sphinx searched function can be stopped and started with the following command:
 
   	$ sudo service sphinxsearch start
   	
-This repository is focused on the indexing mecahnisms of the sphinx package. As the sphinx package is large, we have not cloned all of the files into this repository. The files we have worked with come from the build/sphinx/sphinx/util folder of the sphinxsearch paakage. To utilize this project, replace the stemmer.py docstrings.py and tags.py
+This repository is focused on the indexing mecahnisms of the sphinx package. As the sphinx package is large, we have not cloned all of the files into this repository. The files we have worked with come from the build/sphinx/sphinx/util folder of the sphinxsearch paakage. To utilize this project, replace the ```stemmer.py``` ```docstrings.py``` and ```tags.py```
 
-    $ build/sphinx/sphinx/util
+    $ cd build/sphinx/sphinx/util
 
 The subdirectory sphinx is the main working module within the sphinx search package. 
 
